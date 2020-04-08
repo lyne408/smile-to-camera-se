@@ -1,12 +1,16 @@
 # Smile To Camera SE
 
-## Original
-
-[Smile To Camera](https://www.nexusmods.com/skyrim/mods/92337)
+## Latest version
+Smile To Camera SE **0.4**, Release on **April 8, 2020**.
+The same as original LE version 0.4, based on **SKSE64 2.0.17**.
 
 ## Disclaimer
 
 src/skse64/* are belong to [SKSE Team](https://skse.silverlock.org), some others belong to [beniz](https://www.nexusmods.com/skyrim/users/4097779).
+
+## Original
+
+[Smile To Camera](https://www.nexusmods.com/skyrim/mods/92337)
 
 ## Port what?
 
