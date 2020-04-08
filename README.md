@@ -6,7 +6,7 @@
 
 ## Disclaimer
 
-src/skse64/* are belong to [SKSE Team](https://skse.silverlock.org), others belong to [beniz](https://www.nexusmods.com/skyrim/users/4097779).
+src/skse64/* are belong to [SKSE Team](https://skse.silverlock.org), some others belong to [beniz](https://www.nexusmods.com/skyrim/users/4097779).
 
 ## Port what?
 
