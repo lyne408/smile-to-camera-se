@@ -9,8 +9,8 @@
 
 - **Version 0.4**
 
-  \> Release on April 8, 2020.
-  \> The features are same as original LE version 0.4, based on SKSE64 2.0.17.
+  > Release on April 8, 2020.
+  > The features are same as original LE version 0.4, based on SKSE64 2.0.17.
 ## Description
 
 Smile To Camera SE port by yfh19961130.
