@@ -10,15 +10,17 @@
 - **Version 0.4**
 
   \> Release on April 8, 2020.
-  <br>
+  
   \> The features are same as original LE version 0.4, based on SKSE64 2.0.17.
   
 ## Description
 
 Smile To Camera SE port by yfh19961130.
+
 Original LE link: [Smile To Camera](https://www.nexusmods.com/skyrim/mods/92337)
 
 Head tracking to camera and expressing a emotion.
+
 Youtube video showcase link: [Skyrim Showcase : Smile To Camera](https://youtu.be/Yxqj4j2pJ6o)
 
 ## Disclaimer
