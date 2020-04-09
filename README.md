@@ -1,16 +1,31 @@
 # Smile To Camera SE
 
-## Latest version
-Smile To Camera SE **0.4**, Release on **April 8, 2020**.
-The same as original LE version 0.4, based on **SKSE64 2.0.17**.
+## Requiement
+
+- [SKSE64](https://skse.silverlock.org)	require SKSE64 2.0.17
+- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)       require SkyUI 5.1+
+
+## Changelog
+
+- **Version 0.4**
+
+  \> Release on April 8, 2020.
+  \> The features are same as original LE version 0.4, based on SKSE64 2.0.17.
+## Description
+
+Smile To Camera SE port by yfh19961130.
+
+Original LE link: [Smile To Camera](https://www.nexusmods.com/skyrim/mods/92337)
+
+
+
+Head tracking to camera and expressing a emotion.
+
+Youtube video showcase link: [Skyrim Showcase : Smile To Camera](https://youtu.be/Yxqj4j2pJ6o)
 
 ## Disclaimer
 
 src/skse64/* are belong to [SKSE Team](https://skse.silverlock.org), some others belong to [beniz](https://www.nexusmods.com/skyrim/users/4097779).
-
-## Original
-
-[Smile To Camera](https://www.nexusmods.com/skyrim/mods/92337)
 
 ## Port what?
 
