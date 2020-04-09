@@ -9,8 +9,7 @@
 
 - **Version 0.4**
 
-  \> Release on April 8, 2020.
-  
+  \> Release on April 8, 2020.<br>
   \> The features are same as original LE version 0.4, based on SKSE64 2.0.17.
   
 ## Description
@@ -25,7 +24,7 @@ Youtube video showcase link: [Skyrim Showcase : Smile To Camera](https://youtu.b
 
 ## Disclaimer
 
-src/skse64/* are belong to [SKSE Team](https://skse.silverlock.org), some others belong to [beniz](https://www.nexusmods.com/skyrim/users/4097779).
+These files in src/skse64/ are belong to [SKSE Team](https://skse.silverlock.org), some others belong to [beniz](https://www.nexusmods.com/skyrim/users/4097779).
 
 ## Port what?
 
