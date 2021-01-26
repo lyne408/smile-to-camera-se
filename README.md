@@ -21,7 +21,7 @@
 
 # Smile To Camera SE Port by lyne408
 
-Let the Dragonborn like looks at you.
+Let the Dragonborn look at you.
 
 ## Requiements
 
@@ -40,7 +40,7 @@ Let the Dragonborn like looks at you.
 
 Head tracking to third person camera and expressing a emotion.
 
-Let the Dragonborn looks at you.
+Let the Dragonborn look at you.
 
 Original LE link: [Smile To Camera](https://www.nexusmods.com/skyrim/mods/92337)
 
