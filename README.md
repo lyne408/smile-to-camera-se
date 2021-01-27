@@ -116,7 +116,7 @@ Please read [Requiements section](#requiements) and [Issues section](#issues) fi
 	
 ## Credits
 
-- [beniz](https://www.nexusmods.com/skyrim/users/4097779)
+- [beniz](https://www.nexusmods.com/skyrim/users/4097779), the original author of [Smile to Camera].
 - [SKSE Team](https://skse.silverlock.org)
 
 ## Permissions
