@@ -26,15 +26,16 @@ Let the Dragonborn look at you.
 ## Requiements
 
 - [SKSE64](https://skse.silverlock.org)
-	
-	Supported Versions:
-	- *SKSE64 2.0.16*
-	- *SKSE64 2.0.17*
-	- *SKSE64 2.0.19*
-	
-- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+  
+    Supported Versions:
+  
+  - *SKSE64 2.0.16*
+  - *SKSE64 2.0.17*
+  - *SKSE64 2.0.19*
 
-	Support *SkyUI 5.1+*.
+- [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+  
+    Support *SkyUI 5.1+*.
 
 ## Features
 
@@ -65,27 +66,28 @@ So **Open Source** means you can modify any MODs youself. And **Programming** ma
 ### Compatibility
 
 - May be **incompatible** with some **Camera** or **Head Tracking** mods.
-
-	[Smile to Camera] use API `SetLookAt()` and `SetHeadTracking()` which control the head node of player.
-
-	Many camera relative or head tracking relative mods use those APIs.
-
-	Example: [Immersive First Person View-22306-9] makes [Smile to Camera] work incorrectly.
+  
+    [Smile to Camera] use API `SetLookAt()` and `SetHeadTracking()` which control the head node of player.
+  
+    Many camera relative or head tracking relative mods use those APIs.
+  
+    Example: [Immersive First Person View-22306-9] makes [Smile to Camera] work incorrectly.
 
 - **Incompatible** with any emotion relative mods.
+  
+    Because [Smile to Camera] **Force** to control emotion.
 
-	Because [Smile to Camera] **Force** to control emotion.
-		
 ### Bugs
 
 - Toggle Key may not work.
-- It does not work at some camera states.
 
-	May be caused by incompatible mods or Skyrim internal bugs.
-	
-	You can press `Tab Key` then release to reset the camera states.
-	
-	Actually, this bug has been fixed by me, but not release it.
+- It does not work at some camera states.
+  
+    May be caused by incompatible mods or Skyrim internal bugs.
+  
+    You can press `Tab Key` then release to reset the camera states.
+  
+    Actually, this bug has been fixed by me, but not release it.
 
 ## Downloads
 
@@ -110,10 +112,10 @@ Please read [Requiements section](#requiements) and [Issues section](#issues) fi
 
 ## Changelogs
 
-- 0.4 (2020-04-08)	
-	
+- 0.4 (2020-04-08)    
+  
   - The features are same as original LE version 0.4.
-	
+
 ## Credits
 
 - [beniz](https://www.nexusmods.com/skyrim/users/4097779), the original author of [Smile to Camera].
@@ -121,7 +123,40 @@ Please read [Requiements section](#requiements) and [Issues section](#issues) fi
 
 ## Permissions
 
-Like the original [Smile To Camera](https://www.nexusmods.com/skyrim/mods/92337) page. 
-
 - No Commercial Use.
-- Free to modify with original credits.
+
+Like the original Permissions, see the following.
+
+----
+
+> Permissions And Credits of Original [Smile To Camera](https://www.nexusmods.com/skyrim/mods/92337) 
+> 
+> ### Credits and distribution permission
+> 
+> - [x] **Other user's assets**
+>   
+>   All the assets in this file belong to the author, or are from free-to-use modder's resources
+> 
+> - [ ] **~~Upload permission~~**
+>   
+>   You are not allowed to upload this file to other sites under any circumstances
+> 
+> - [x] **Modification permission**
+>   
+>   You are allowed to modify my files and release bug fixes or improve on the features so long as you credit me as the original creator
+> 
+> - [x] **Conversion permission**
+>   
+>   You can convert this file to work with other games as long as you credit me as the creator of the file
+> 
+> - [x] **Asset use permission**
+>   
+>   You are allowed to use the assets in this file without permission as long as you credit me
+> 
+> - [ ] **~~Asset use permission in mods/files that are being sold~~**
+>   
+>   You are not allowed to use assets from this file in any mods/files that are being sold, for money, on Steam Workshop or other platforms
+> 
+> - [ ] **~~Asset use permission in mods/files that earn donation points~~**
+>   
+>   You are not allowed to earn Donation Points for your mods if they use my assets
