@@ -52,7 +52,7 @@ Youtube video showcase link: [Skyrim Showcase : Smile To Camera](https://youtu.b
 **No any enhancements or fixes.**
 
 - Upgrade SmileToCamera.esp to Form v44.
-- Modify those source codes of *BeinzCameraPlugin* to match SKSE64.
+- Modify those source code of *BeinzCameraPlugin* to match SKSE64.
 
 ## Issues
 
@@ -97,17 +97,18 @@ Please read [Requiements section](#requiements) and [Issues section](#issues) fi
 
 ## Development
 
-### Build BeinzCameraPlugin
+### Build BeinzCameraPlugin Steps
 
-1. Download SKSE64 which version you need, extract it's source codes, open *skse64 solution*.
-2. Clone this repository to local disk.
-3. Add *BeinzCameraPlugin* as an *Existing Project* of skse64 solution.
-4. *Retarget solution* to set the **Windows SDK Version** you've installed, then set the *Configuration Type* of **skse64 project** to **Static library(.lib)**.
-5. Build and get the SKSE64 plugin.
+- Download SKSE64 which version you need, extract it's source code, open *skse64 solution*.
+- Set the *Configuration Type* of **skse64 project** to **Static library(.lib)**.
+- Clone this repository to local disk.
+- Add **BeinzCameraPlugin** as an *Existing Project* of skse64 solution, remove it's **Project Dependencies** then add again to repair path errors.
+- *Retarget solution* to set the **Windows SDK Version** you've installed.
+- Build and get the SKSE64 plugin.
 
 ### Compile Papyrus Scripts
 
-1. Download **SkyUI Papyrus source codes**, not recommend downloading SkyUI SDK, install it as a mod.
+1. Download **SkyUI Papyrus source code**, not recommend downloading SkyUI SDK, install it as a mod.
 2. Compile Papyrus scripts.
 
 ## Changelogs
